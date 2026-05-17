@@ -6,7 +6,7 @@ Histogram Equalization is a widely used image processing technique that redistri
 
 The project also provides histogram visualizations for analyzing pixel intensity distribution before and after enhancement.
 
----
+
 
 # Features
 
@@ -19,7 +19,7 @@ The project also provides histogram visualizations for analyzing pixel intensity
 - Jupyter Notebook Support
 - Real-world Image Processing Example
 
----
+
 
 # Technologies Used
 
@@ -37,9 +37,7 @@ The project also provides histogram visualizations for analyzing pixel intensity
 <img width="723" height="504" alt="image" src="https://github.com/user-attachments/assets/8e60d567-7906-409d-93dc-112223d51aaf" />
 <img width="720" height="507" alt="image" src="https://github.com/user-attachments/assets/1b2b4179-06ca-4cad-b118-3e582e2960e4" />
 
-</div>
 
----
 # Applications
 
 This project can be used in:
@@ -52,7 +50,6 @@ This project can be used in:
 - Security and Surveillance
 - Photography Enhancement
 
----
 
 # Future Improvements
 
@@ -65,16 +62,12 @@ Some possible future enhancements include:
 - Video Frame Enhancement
 - Deep Learning-based Image Enhancement
 
----
 
 # Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
----
 
 # License
 
 This project is licensed under the MIT License.
-
----

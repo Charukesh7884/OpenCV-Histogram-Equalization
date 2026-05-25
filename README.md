@@ -1,5 +1,6 @@
-# Project Overview
+# OpenCV-Histogram-Equalization
 
+## Project Overview
 This project demonstrates **Histogram Equalization** using **OpenCV** and **Python** to enhance image brightness and contrast.
 
 Histogram Equalization is a widely used image processing technique that redistributes image intensity values to improve contrast and visibility. In this implementation, enhancement is applied specifically to the **Value (V) channel** in the **HSV color space**, preserving the original color information while improving illumination.
@@ -8,7 +9,7 @@ The project also provides histogram visualizations for analyzing pixel intensity
 
 
 
-# Features
+## Features
 
 - Image Enhancement using Histogram Equalization
 - HSV Color Space Processing
@@ -30,7 +31,7 @@ The project also provides histogram visualizations for analyzing pixel intensity
 | NumPy | Numerical Operations |
 | Matplotlib | Data Visualization |
 
-# Output
+## Output
 
 ### Original vs Equalized Image
 
@@ -38,7 +39,7 @@ The project also provides histogram visualizations for analyzing pixel intensity
 <img width="720" height="507" alt="image" src="https://github.com/user-attachments/assets/1b2b4179-06ca-4cad-b118-3e582e2960e4" />
 
 
-# Applications
+## Applications
 
 This project can be used in:
 
@@ -51,7 +52,7 @@ This project can be used in:
 - Photography Enhancement
 
 
-# Future Improvements
+## Future Improvements
 
 Some possible future enhancements include:
 
@@ -63,11 +64,11 @@ Some possible future enhancements include:
 - Deep Learning-based Image Enhancement
 
 
-# Support
+## Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
 
-# License
+## License
 
 This project is licensed under the MIT License.
